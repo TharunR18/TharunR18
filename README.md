@@ -25,10 +25,6 @@ const Tharun = {
   </a>
 </p>
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=TharunR18&theme=merko&radius=10" alt="TharunR18's Activity Graph" />
-</p>
-
 <h2 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00FF99&width=650&lines=%5B+Developer+Class+%5D+Full+Stack;Skills+Unlocked+%3A+MERN+Stack;XP+Leveling+Up+Every+Day;Quest%3A+Build+Awesome+Projects" />
 </h2>
